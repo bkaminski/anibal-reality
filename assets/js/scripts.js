@@ -1,4 +1,4 @@
-//jQuery no-conflict mode
+//jQuery no-conflict mode!
 (function( $ ) {
 
 
