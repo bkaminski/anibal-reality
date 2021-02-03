@@ -1,10 +1,3 @@
-//jQuery no-conflict mode!
-(function( $ ) {
-
-
-
-
-})( jQuery );
 (function( $ ) {
 	$( document ).ready(function() {
 		$('.logo-img').waypoint(function() {
