@@ -8,4 +8,4 @@ parts/page-header-tracking.php
 parts/page-favicons.php
 
 # ignore scripts.js unminified file
-assets/js/scripts.js
+/assets/js/scripts.js
