@@ -32,5 +32,15 @@
 		}, {
 			offset: '100%'
 		});
+		$('.helpful--links').waypoint(function() {
+			$('.helpful--links').addClass('animated fadeInLeft');
+		}, {
+			offset: '100%'
+		});
+		$('.featured--listings').waypoint(function() {
+			$('.featured--listings').addClass('animated fadeInUp');
+		}, {
+			offset: '100%'
+		});
 	});
 })( jQuery );

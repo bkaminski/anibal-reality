@@ -15,11 +15,14 @@
 				'container'         => '',
 				'container_class'   => '',
 				'container_id'      => '',
-				'menu_class'        => 'navbar-nav ml-auto',
+				'menu_class'        => 'navbar-nav me-auto mb-2 mb-lg-0',
 				'fallback_cb'       => 'WP_Bootstrap_Navwalker::fallback',
 				'walker'            => new WP_Bootstrap_Navwalker(),
 			)); ?>
-			
+
+			<div class="d-flex">
+				<a href="#" class="btn btn-outline-danger rounded-pill fw-bold px-4 text-uppercase">Hire Me</a>
+			</div>
 		</div>
 	</div>
 </nav>
