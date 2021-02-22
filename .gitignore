@@ -1,6 +1,9 @@
 # ignore node dependency directories
 node_modules/
 
+# ignore gulpfile
+gulpfile.js
+
 # ignore Analytical Tracking
 parts/page-header-tracking.php
 
