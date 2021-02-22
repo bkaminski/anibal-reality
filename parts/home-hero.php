@@ -9,7 +9,7 @@
 				<div class="col-md-6 anibal--mission" style="padding-right:0px;padding-left:0px;">
 					<div class="p-4" style="background-color: #e3f2fd;height:100%;">
 						<h1 class="text-center responsive-text">The Rick Anibal Team</h1>
-						<p class="h3 text-uppercase text-center mb-3 "><strong>Service - Skill - Results</strong></p>
+						<p class="h3 text-uppercase text-center mb-3"><strong>Service - Skill - Results</strong></p>
 						
 						<p class="text-center responsive-text pt-2"><em>Your Delaware Real Estate Solution</em></p>
 						<p class="text-center responsive-text">302-547-6700</p>
