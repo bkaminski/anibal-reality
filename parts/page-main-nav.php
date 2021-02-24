@@ -21,7 +21,7 @@
 			)); ?>
 
 			<div class="d-flex">
-				<a href="#" class="btn btn-outline-danger rounded-pill fw-bold px-4 text-uppercase">Hire Me</a>
+				<a href="#" class="btn btn-outline-danger rounded-pill fw-bold px-4 text-uppercase">Hire Us</a>
 			</div>
 		</div>
 	</div>

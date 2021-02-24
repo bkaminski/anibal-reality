@@ -7,7 +7,7 @@
 				</div>
 				<div class="col-md-8 pt-5 customer-testimonials">
 					<div class="testimonial--plugin">
-						<?php echo do_shortcode('[hms_testimonials_rotating template="13" order="random" direction="ASC"]'); ?>
+						<?php echo do_shortcode('[testimonials_slider rotate_per_page=true show_controls=true]'); ?>
 					</div>
 				</div>
 			</div>
