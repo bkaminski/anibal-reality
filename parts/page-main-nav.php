@@ -21,7 +21,11 @@
 			)); ?>
 
 			<div class="d-flex">
-				<a href="#" class="btn btn-outline-danger rounded-pill fw-bold px-4 text-uppercase">Hire Us</a>
+				<a href="https://www.facebook.com/rickanibalderealestate" target="_blank"><i class="fab fa-facebook-square fa-fw fa-2x pt-1 text-danger"></i></a>
+				<a href="https://twitter.com/RickAnibal" target="_blank"><i class="fab fa-twitter-square fa-fw fa-2x pt-1 text-danger"></i></a>
+				<a href="https://www.youtube.com/user/7luckydeal" target="_blank"><i class="fab fa-youtube-square fa-fw fa-2x pt-1 text-danger"></i></a>
+				<a href="http://www.pinterest.com/ranibal/" target="_blank"><i class="fab fa-pinterest-square fa-fw fa-2x pt-1 text-danger me-4"></i></a>
+				<a href="<?php echo get_home_url(); ?>/contact" class="btn btn-outline-danger rounded-pill fw-bold px-4 text-uppercase">Hire Us</a>
 			</div>
 		</div>
 	</div>

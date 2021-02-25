@@ -18,6 +18,7 @@ add_action('wp_enqueue_scripts', 'enqueue_dmi_styles');
 function enqueue_waypoints_deps() {
 	if ( is_front_page() ) {
 		wp_enqueue_script('waypoints', get_template_directory_uri() . '/assets/js/waypoints.min.js', array('jquery'), null, true, null);
+		wp_enqueue_script('waypoints', get_template_directory_uri() . '/assets/js/waypoints-scripts.js', array('jquery'), null, true, null);
 		wp_enqueue_style('animate', 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css', array(), null);
 	};
 }

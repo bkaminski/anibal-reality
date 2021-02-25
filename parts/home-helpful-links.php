@@ -11,7 +11,7 @@
 				</div>
 				<div class="col-md-3">
 					<span style="color:#dc3545;font-size:7rem;">
-						<i class="fas fa-user-circle"></i>
+						<i class="far fa-handshake"></i>
 					</span>
 					<a href="<?php echo get_home_url(); ?>/about" class="btn btn-outline-danger btn-lg rounded-pill fw-bold w-100 text-uppercase">Meet Me</a>
 				</div>
@@ -19,7 +19,7 @@
 					<span style="color:#dc3545;font-size:7rem;">
 						<i class="fas fa-piggy-bank"></i>
 					</span>
-					<a href="<?php echo get_home_url(); ?>/buyers-sellers" class="btn btn-outline-danger btn-lg rounded-pill fw-bold w-100 text-uppercase">First Time Home Buyer</a>
+					<a href="<?php echo get_home_url(); ?>/delaware-first-time-home-buyer" class="btn btn-outline-danger btn-lg rounded-pill fw-bold w-100 text-uppercase">First Time Home Buyer</a>
 				</div>
 				<div class="col-md-3">
 					<span style="color:#dc3545;font-size:7rem;">

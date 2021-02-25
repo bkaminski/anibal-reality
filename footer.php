@@ -21,13 +21,16 @@
 
 					</div>
 				</div>
-				<div class="col text-center pt-5">
+				<div class="col text-center pt-5 pb-5">
 					<?php $uploads = wp_upload_dir(); echo '<img src="' . esc_url( $uploads['baseurl'] . '/mls-logo.png' ) . '" width="120" alt="MLS Official Icon">'; ?>
 
 				</div>
 			</div>
-			<div class="col-md-4">
-
+			<div class="col-md-4 text-center">
+				<a href="https://www.facebook.com/rickanibalderealestate" target="_blank"><i class="fab fa-facebook-square fa-fw fa-2x pt-1 text-white"></i></a>
+				<a href="https://twitter.com/RickAnibal" target="_blank"><i class="fab fa-twitter-square fa-fw fa-2x pt-1 text-white"></i></a>
+				<a href="https://www.youtube.com/user/7luckydeal" target="_blank"><i class="fab fa-youtube-square fa-fw fa-2x pt-1 text-white"></i></a>
+				<a href="http://www.pinterest.com/ranibal/" target="_blank"><i class="fab fa-pinterest-square fa-fw fa-2x pt-1 text-white"></i></a>
 			</div>
 		</div>
 	</div>

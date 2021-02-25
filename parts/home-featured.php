@@ -32,7 +32,7 @@
 				</div>
 			</div>
 			<div class="text-center pt-4">
-				<a href="<?php echo get_home_url(); ?>/contact" class="text-uppercase btn btn-lg rounded-pill btn-outline-light fw-bold px-4 pb-2 text-uppercase">Contact Us Today</a>
+				<a href="<?php echo get_home_url(); ?>/contact" class="text-uppercase btn btn-lg rounded-pill btn-outline-light fw-bold px-4 pb-2">Contact Us Today</a>
 			</div>
 		</div>
 	</div>
