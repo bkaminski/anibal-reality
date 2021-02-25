@@ -4,6 +4,9 @@ node_modules/
 # ignore gulpfile
 gulpfile.js
 
+#ignore screenshot.png
+screenshot.png
+
 # ignore Analytical Tracking
 parts/page-header-tracking.php
 

@@ -31,10 +31,12 @@
 				<a href="https://twitter.com/RickAnibal" target="_blank"><i class="fab fa-twitter-square fa-fw fa-2x pt-1 text-white"></i></a>
 				<a href="https://www.youtube.com/user/7luckydeal" target="_blank"><i class="fab fa-youtube-square fa-fw fa-2x pt-1 text-white"></i></a>
 				<a href="http://www.pinterest.com/ranibal/" target="_blank"><i class="fab fa-pinterest-square fa-fw fa-2x pt-1 text-white"></i></a>
+				<br />
+				<a href="<?php echo get_home_url(); ?>/contact" class="btn btn-lg rounded-pill btn-outline-light fw-bold px-4 pb-2 text-uppercase mt-5 mb-3" style="text-shadow:none;">Contact Us</a>
 			</div>
 		</div>
 	</div>
-	<div class="col text-center pt-2">
+	<div class="col text-center pt-2 pb-3">
 		<p><small>Copyright &copy; <?php echo date('Y'); ?> The Anibal Team | <a class="tel" href="<?php echo get_home_url(); ?>/privacy-policy">Privacy Policy</a></small></p>
 	</div>
 </footer>
