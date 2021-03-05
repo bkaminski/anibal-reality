@@ -9,7 +9,6 @@
 					<br />
 				</div>
 			</div>
-			<?php the_tags('<span class="badge badge-secondary"><i class="fas fa-tags"></i> Related:</span>  ', ', '); ?>
 		<?php endwhile; else : ?>
 			<p><?php esc_html_e( 'Sorry, no posts matched your criteria.' ); ?></p>
 		<?php endif; ?>

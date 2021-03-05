@@ -15,3 +15,6 @@ parts/page-favicons.php
 
 # ignore scripts.js unminified file
 assets/js/scripts.js
+
+# ignore img folder
+assets/img/
