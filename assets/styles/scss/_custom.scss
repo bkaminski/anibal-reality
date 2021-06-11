@@ -49,8 +49,11 @@ body {
   	background-position: bottom center;
   	background-repeat: no-repeat;
   	background-size: cover;
-  	background-attachment: fixed;
   	border-bottom: 4px solid blue;
+    background-attachment: scroll;
+    @include breakpoint (md) {
+    background-attachment: fixed;
+  }
 }
 
 .testimonials {
@@ -60,6 +63,10 @@ body {
 
 .customer-testimonials {
   	background: #fff;
+    min-height: 630px;
+    @include breakpoint (md) {
+    min-height: 400px;
+  }
 }
 
 .footer {
@@ -77,8 +84,11 @@ body {
   background-position: middle middle;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
   border-top: 4px solid #dc3545;
+  background-attachment: scroll;
+   @include breakpoint (md) {
+    background-attachment: fixed;
+  }
 }
 
 .helpful-links {
